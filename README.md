@@ -29,9 +29,7 @@ Currently building foundations in machine learning with a focus on practical und
 
 - **Sales & Supermarket Analysis (Power BI)**  
   Interactive dashboards focusing on sales performance, customer behavior, and product trends.
-
-- **Personal Expense Tracker (Python) — In Progress**  
-  Ongoing project focused on tracking, categorizing, and analyzing expenses using Python.
+  
 
 > Projects emphasize structured analysis, clean data handling, and insight-driven outcomes.
 
