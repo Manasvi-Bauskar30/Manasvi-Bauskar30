@@ -1,56 +1,75 @@
-## Hi, I'm Manasvi Bauskar 👋
+## 👋 Hi, I'm Manasvi Bauskar
 
-Data Analyst with strong fundamentals in Python, SQL, and Power BI.  
-Experienced in exploratory data analysis (EDA) and dashboard-driven insights.  
-Currently building foundations in machine learning with a focus on practical understanding.
-
----
-
-## What I Work On
-- Data cleaning, preprocessing, and exploratory data analysis (EDA)
-- Business-oriented analysis using Python and SQL
-- Interactive dashboards and reports using Power BI
-- Learning machine learning concepts with a focus on real-world application
+Aspiring **Data Scientist** passionate about turning raw data into actionable insights and building predictive solutions using Python and Machine Learning.  
+Strong foundation in **data analysis, predictive modeling, EDA, and feature engineering**.
 
 ---
 
-## Technical Skills
-**Programming:** Python  
-**Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)  
-**Databases:** SQL  
-**Data Visualization:** Power BI, Matplotlib  
-**Tools:** Git, GitHub, Excel  
+## 🔍 What I Work On
+
+- Data cleaning, preprocessing, and exploratory data analysis (EDA)  
+- Feature engineering and transformation for ML models  
+- Predictive modeling using Python & scikit-learn  
+- Model evaluation, hyperparameter tuning, and optimization  
+- Data visualization using Matplotlib, Seaborn, and Plotly  
+- End-to-end data science pipelines: data → insights → predictive models  
 
 ---
 
-## Featured Projects
-- **Employee Attrition Analysis**  
-  End-to-end EDA using Python and Power BI to analyze workforce trends and key attrition drivers.
+## 💻 Technical Skills
 
-- **Sales & Supermarket Analysis (Power BI)**  
-  Interactive dashboards focusing on sales performance, customer behavior, and product trends.
-  
-
-> Projects emphasize structured analysis, clean data handling, and insight-driven outcomes.
+**Programming & Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Machine Learning:** Regression, Classification, Decision Trees, Random Forest, Model Evaluation  
+**Data Handling & EDA:** Data Cleaning, Preprocessing, Feature Engineering  
+**Visualization:** Matplotlib, Seaborn, Plotly  
+**Databases & Tools:** SQL, Git, GitHub  
 
 ---
 
-## Currently Learning
-- Machine learning fundamentals (supervised & unsupervised concepts)
-- Statistics for data analysis
-- Feature engineering and model evaluation basics
-- Writing cleaner, more interpretable analytical code
+## 📊 Featured Projects
+
+### 🔹 Employee Attrition Prediction
+- Built ML models to predict employee attrition and identify key drivers  
+- Applied feature engineering to improve model performance
+
+### 🔹 Sales Analysis & Forecasting
+- Conducted EDA and created predictive models for sales forecasting  
+- Visualized key business trends using Python
+
+### 🔹 Car Price Prediction
+- Developed regression models to predict car prices based on multiple features  
+- Performed feature selection and model evaluation for accuracy improvement
+
+### 🔹 Medical Image Classification
+- Built a classification model to detect medical conditions from images  
+- Applied preprocessing, data augmentation, and evaluation metrics for model assessment
+
+### 🔹 End-to-End Data Science Projects
+- Collected, cleaned, visualized, and modeled datasets  
+- Delivered actionable insights and predictive results  
+
+> All projects emphasize **structured analysis, machine learning, and actionable insights**.
 
 ---
 
-## Career Focus
-- Strengthen core data analyst skills with real-world projects  
-- Build a solid transition path into applied data science  
-- Focus on understanding models, not just using libraries
+## 🚀 Currently Learning
+
+- Advanced Machine Learning algorithms (XGBoost, ensemble methods)  
+- Feature selection, hyperparameter tuning, and model optimization  
+- Statistical modeling & hypothesis testing  
+- End-to-end ML deployment workflows  
 
 ---
 
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/manasvi-bauskar-14b2b2201/
-- GitHub: You’re already here 🙂
+## 🎯 Career Focus
 
+- Strengthen skills in Data Science and Machine Learning  
+- Solve real-world problems with predictive modeling  
+- Deliver interpretable models and actionable insights  
+
+---
+
+## 📬 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/manasvi-bauskar-14b2b2201/  
+- GitHub: You’re already here 🙂  
