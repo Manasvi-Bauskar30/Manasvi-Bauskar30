@@ -7,7 +7,7 @@ B.Tech Computer Science & Engineering graduate (2026) with practical experience 
 I build data-driven projects across **data preprocessing, exploratory data analysis (EDA), predictive modeling, deep learning, computer vision, dashboard development, and model deployment**.
 
 Currently working as a **Data Analyst Intern at HRUTA Solutions Pvt. Ltd.**, gaining industry exposure through real-world data analytics and business reporting projects.
----
+
 
 
 ## 🛠️ Technical Skills
