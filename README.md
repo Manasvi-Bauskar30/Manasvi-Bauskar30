@@ -8,7 +8,7 @@ I build data-driven projects involving **data preprocessing, exploratory data an
 
 Currently working as a **Data Analyst Intern at HRUTA Solutions Pvt. Ltd.**, gaining industry exposure through data analytics and business reporting projects.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -37,16 +37,19 @@ Computer Vision | OpenCV | Haar Cascade | Python
 ### 📊 Customer Churn Analysis & Retention Dashboard
 Data Analytics | Python | SQL | Power BI | DAX
 
----
+
 
 ## 💼 Professional Experience
 
 **Data Analyst Intern — HRUTA Solutions Pvt. Ltd.**  
-*July 2026 – Present*
+*July 2026 – Present | Pune, Maharashtra, India*
 
-Working on data analytics, data cleaning, dashboard development, and business reporting tasks.
+- Assist in developing interactive Power BI dashboards for business reporting and data visualization.
+- Perform data cleaning and transformation using Power Query.
+- Analyze datasets using SQL to support reporting and business analysis.
+- Conduct research and prepare analytical reports to support project requirements and decision-making.
+- Collaborate with mentors and team members on data analytics projects.
 
----
 
 ## 🎯 Areas of Interest
 
